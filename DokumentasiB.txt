@@ -1,2 +1,0 @@
-untuk menyimpan file dan keluar dari editor secara bersamaan, tekan
-Esc untuk beralih ke mode perintah,ketik:wq dan tekan Enter
